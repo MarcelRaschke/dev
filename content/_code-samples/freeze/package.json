@@ -4,7 +4,7 @@
   "license": "MIT",
   "dependencies": {
     "ripple-lib": "*",
-    "babel-cli": "^6.0.0",
+    "babel-cli": "6.26.0",
     "babel-preset-es2015": "*"
   },
   "babel": {
